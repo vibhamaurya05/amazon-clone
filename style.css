@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 60px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav-logo{
+    height: 38px;
+    width: 140px;
+    padding: 8px;
+    /* border: 2px solid white;     */
+}
+.logo{
+    background-image: url("logo.png");
+    background-size: cover;
+    height: 40px;
+    width: 80%;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+.nav-loc{
+    margin: 5px;
+    height: 50px;
+    width: 100px;
+    /* border: 2px solid white; */
+    
+}
+.nav-search{
+    height: 40px;
+    width: 600px;
+    
+}
+.cart{
+    height: 40px;
+    width: 100px;
+    font-size: 22px;
+    margin-left: 20px;
+    margin-top: 15px;
+    display: flex;
+}
+/*navbar2*/
+.navbar1{
+    height: 35px;    
+    background-color: rgb(87, 85, 85); 
+    display: flex;   
+}
+a {
+    color: white;
+    font-size: 18px;
+    margin-top: 8px;
+    text-decoration: none;
+}
+
+/*first*/
+.first{
+    background-image: url("1.jpg");
+    background-size: cover;
+    height: 400px;
+}
+
+.boxes{
+    height: 900px;  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    background-color: rgb(241, 241, 241);
+
+}
+.box1{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    
+    
+}
+.box2{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+}
+.box3{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+}
+.box4{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+}
+.box5{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+}
+.box6{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+}
+.box7{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+}
+.box8{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+}
+.one {
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.two {
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.boxes2{
+    height: 450px;  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    background-color: rgb(241, 241, 241);
+
+}
+.box9{
+    width: 300px;
+    height: 400px;
+    margin-top: 20px; 
+    background-color: white;
+}
+
+.outer{
+    height: 200px;    
+}
+.inner{
+    height: 120px;
+    border: 2px solid rgb(233, 230, 230);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+.main{
+    height: 100px;
+    margin-top: 35px;
+    text-align: center;
+    
+}
+.button{
+    height: 35px;
+    width: 225px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+/* .sign{
+    
+    
+} */
+
+footer{
+    height: 30px;
+    padding: 15px;
+    background-color: rgb(168, 168, 168);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    
+}
+.foot-one{
+    height: 400px;
+    background-color: rgb(100, 99, 99);
+    display: flex;
+    justify-content: space-around;
+}
+.div-one{
+    height: 300px;
+    width: 200px;
+    margin-top: 20px;    
+    text-decoration: none;  
+}
+.bottom{
+    height: 70px;
+    background-color: rgb(46, 45, 45);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.adjust{
+    height: 50px;
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.bottom-logo{
+    height: 28px;
+    width: 76px; 
+      margin-top: 20px;
+    background-image: url('logo.png');
+    background-size: contain;
+}
+.content{
+    height: 60px;
+    width: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.text{
+    width: 120px;
+    height: 25px;
+    color: White;
+    font-size: 15px;
+    border: 2px solid white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.text2{
+    width: 180px;
+    height: 25px;
+    color: White;
+    font-size: 15px;
+    border: 2px solid white;
+}
